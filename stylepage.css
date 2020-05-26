@@ -1,0 +1,65 @@
+
+        .h2, .h1 {
+            font-family: monospace;
+            color:rgb(85, 26, 140);
+        }
+
+        .table2 {
+            background: rgb(47, 124, 138);
+            font-family: monospace;
+            font-size: 25px;
+            color: white;
+		}
+        .html, body{
+            width:100%;
+            height:100%;
+        }
+        
+       .body{
+            margin: 0px 1px 50px 15px;
+            padding:0px;
+            background:#222222;
+            background-image:url('bg.png');
+            background-size:cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            font-family: monospace;
+        }
+       
+        
+        #background{
+            width:800px;
+            height:600px;
+            position:absolute;
+            top:50%;
+            left:50%;
+            margin-left:-400px;
+            margin-top:-300px;
+            background:url('background.png');
+            background-repeat: no-repeat;
+            z-index:9;
+        }
+        
+        #game{
+            background:url('gamebg.jpg');
+            position:absolute;
+            top:50%;
+            left:50%;
+            margin-left:-320px;
+            margin-top:-180px;
+        }
+        
+       
+        .header {
+            margin: 5px 5px 10px;
+            width: 1200px;
+            font-family: verdana;
+            font-size: 20px;
+            background-color: rgb(151, 173, 168);
+            border: gray;
+        }
+        .img{
+            height: 400;
+            widows: 300px;
+         
+        }
