@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1a88665-66de-422a-9653-245fe47bf11a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/projet_web/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projet_web/GPL-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/LICENSE.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projet_web/MIT-LICENSE.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projet_web/alien.PNG" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projet_web/alien.html" afterDir="false" />
@@ -29,6 +31,28 @@
       <change afterPath="$PROJECT_DIR$/projet_web/game.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projet_web/game.manifest" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projet_web/images/sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/bullet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/definitions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/enemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/explosion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/jsfxr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/levelpop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/particle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/particleemitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/powerup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/textpop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/min/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/radius.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_web/raduis.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projet_web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projet_web/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590941313318</updated>
       <workItem from="1590941315447" duration="1541000" />
-      <workItem from="1590942935456" duration="2043000" />
+      <workItem from="1590942935456" duration="2720000" />
     </task>
     <servers />
   </component>
